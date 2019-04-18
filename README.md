@@ -1,1 +1,0 @@
-# NUMA-Memory-Size
